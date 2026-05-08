@@ -1,342 +1,462 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amazon</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-    <div class="navbar">
-        <div class="n1">
-            <div class="logo1"></div>
-        </div>
-        <div class="n2">
-        <p id="p3">Deliver To</p>
-        <div class="logo2"><img id="p1" src="logo1.png" alt="icon"><p id="p2">India</p></div>
-        <div class="n3"></div>
-        </div>
-        <div class="navsearch">
-        <select id="All">
-            <option>All</option>
-         </select>
-        <input id="text" type="text" placeholder="Search Amazon">
-       <div id="p5"> <img id="p4" src="search icon.png" alt="search"></div>
-        </div>
-        <div class="signin">
-            <p id="p6">Hello,sign in</p>
-            <p id="p7">Account & Lists</p>
-        </div>
-        <div class="return">
-            <p id="p8">Returns</p>
-            <p id="p9">& Orders</p>
-        </div>
-        <div class="cart">
-            <div id="p10"></div>
-            <p id="p11">Cart</p>
-        </div>
-    </div>
-    <div class="statusbar">
-        <div class="statusbar2">
-            <div id="s">
-                <img id="option" src="option.jpg" alt="icon">
-                <p id="s2">All</p>
-            </div>
-            <div id="s3">
-                <p style="color: white;">Today's Deals</p>
-            </div>
-            <div id="s4">
-                <p style="color: white;">Regularly</p>
-            </div>
-            <div id="s5">
-                <p style="color: white;">Gift Cards</p>
-            </div>
-            <div id="s6">
-                <p style="color: white;">Customer Service</p>
-            </div>
-            <div id="s7">
-                <p style="color: white;">Sell</p>
-            </div>
-        </div>
-    </div>
-    </header>
-    <main>
-        <div class="mainbg">
-            <div id="r1">
-                <p>You are on amazon.com. You can also shop on Amazon India for millions of products with fast local delivery. <a href="#">Click here to go to amazon.in</a></p>
-            </div></div>
-           <div class="bgfat"><div class="items1">
-            <p id="r2">Shop for your home essentials</p>
-            <div id="ip1">
-                <img id="ii1" src="CleaningTool_1_.jpg" alt="image"> 
-                <img id="ii2" src="CleaningTool_2_.jpg" alt="image">
-            </div>
-            <div id="pts">
-            <p id="pt1">Cleaning Tools</p>
-            <p id="pt2">Home Storage</p></div>
-            <div id="ip2">
-                <img id="ii3" src="CleaningTool_3_.jpg" alt="image">
-                <img id="ii4" src="CleaningTool_4_.jpg" alt="image">
-            </div>
-            <div id="pts">
-            <p id="pt1">Home Decor</p>
-            <p id="pt3">Bedding</p></div>           
-            <a id="blink1" href="#">Discover more in Home</a>
-           </div>
-           <div class="items2">
-            <p id="ip3">Get your game on</p>
-            <img id="ii5" src="Game bg.jpg" alt="image">
-            <a id="blink2" href="#">Shop Gaming</a>
-           </div>
-           <div class="items3">
-            <p id="r3">Fashion trends you like</p>
-            <div id="ip4">
-                <img id="ii6" src="Dress img.jpg" alt="image"> 
-                <img id="ii7" src="knits img.jpg" alt="image">
-            </div>
-            <div id="pts1">
-            <p id="pt4">Dress</p>
-            <p id="pt5">knits</p></div>
-            <div id="ip2">
-                <img id="ii8" src="jackets img.jpg" alt="image">
-                <img id="ii9" src="jewelry.jpg" alt="image">
-            </div>
-            <div id="pts1">
-            <p id="pt6">jackets</p>
-            <p id="pt7">jewelry</p></div>           
-            <a id="blink3" href="#">Explore More</a>
-           </div>
-           <!-- Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, sunt perspiciatis officiis modi fugit molestiae odit. Tempore totam natus laboriosam quos nemo asperiores laudantium alias esse ut similique illum minus autem assumenda ipsum atque omnis, adipisci aperiam ipsam hic qui. Natus temporibus quam tempore molestias odit iusto aperiam harum nam officiis. Amet debitis iste quasi ratione quidem, facere harum eum voluptas voluptates nobis? Quos, nostrum. Maiores odit, possimus dolorum repudiandae inventore cum cupiditate. Asperiores mollitia sapiente delectus minima dolores dolor similique in cupiditate. Sequi officiis impedit facere quam architecto voluptate veniam tempora eaque asperiores quaerat ipsum ducimus, explicabo commodi reprehenderit provident, libero dolor. Esse iure ad omnis rem nostrum, pariatur odit molestias repellendus iusto dolore dolorum expedita? Illo iusto porro saepe, perspiciatis amet quisquam dignissimos sit rerum minus minima ex voluptas tenetur optio aspernatur vitae libero nam illum consequatur ducimus nemo expedita fugiat. Eveniet quo beatae sapiente dolores repellat, non deleniti libero maiores similique in doloribus, iusto labore eum quam voluptas facere perferendis nam laboriosam nihil ut corporis architecto quibusdam saepe. Veritatis, quibusdam. Reprehenderit non quod cum ea sint voluptatem aliquam facere? Quae laboriosam fuga accusantium ducimus possimus placeat quidem unde doloremque qui fugit consectetur ratione quis adipisci, cum sed non repudiandae doloribus corrupti atque ab odit sunt ex! Cupiditate sed dolorem quas aliquam voluptates tempore odio sint quos officiis rem fuga possimus, iusto illo dicta impedit hic assumenda porro tempora. Repudiandae sit vel provident dolor esse, obcaecati accusantium quidem commodi totam tenetur laborum doloribus. Id perferendis earum eum cumque quaerat. Culpa vitae eligendi placeat numquam ipsum ut aperiam aliquid quae dolorum labore cum corrupti, officia vel. Eaque laborum quam nulla odio. Quaerat hic perferendis asperiores aperiam. Veritatis optio, earum numquam perspiciatis quidem beatae officiis, veniam totam mollitia illum, dolore quasi molestiae fugiat! Temporibus, aperiam quibusdam deleniti sapiente sed nam molestiae facere autem hic totam. Repellendus fugiat sunt adipisci necessitatibus quasi unde a inventore voluptate animi velit earum eligendi dolor ullam suscipit sit, assumenda numquam. Fugit quas exercitationem dolor cumque tempore consectetur corrupti autem iste, ex iure delectus, quo saepe est amet omnis. Omnis eius voluptatem, praesentium impedit numquam sequi odit adipisci quae voluptas consequuntur soluta cumque laudantium. Laborum sapiente, fugit, nemo ratione dolorum libero impedit eos quas ad tempora cumque numquam similique veniam quae modi eum esse cum deleniti ut odit delectus. Deleniti magnam illum doloribus deserunt, numquam optio omnis laudantium minima ipsum veniam. Assumenda, quasi expedita. Dolorum mollitia eaque hic deleniti quisquam adipisci? Illum quasi ea porro. Eum nostrum placeat asperiores architecto perferendis praesentium quos aperiam! Delectus, inventore totam aut nihil odio adipisci excepturi vero amet distinctio qui eaque explicabo nobis a veritatis fugit commodi ducimus pariatur blanditiis fuga, cum autem necessitatibus quas deserunt quae. Ut, incidunt voluptatum accusantium soluta ab, inventore laboriosam nam saepe quo aperiam quasi iusto numquam quae doloribus itaque doloremque excepturi ducimus sequi animi eius ullam ipsum necessitatibus porro. Nesciunt neque necessitatibus culpa, provident atque corporis architecto? Saepe accusamus ipsam, odit facere quia repellendus voluptas officiis illo deserunt necessitatibus fugiat aspernatur vitae, dignissimos a? -->
-           <div class="items4">
-            <p id="r4">Shop fashion for less</p>
-            <div id="ip5">
-                <img id="ii10" src="Jeans.jpg" alt="image"> 
-                <img id="ii11" src="Tops.jpg" alt="image">
-            </div>
-            <div id="pts2">
-            <p id="pt8">Jeans under $50</p>
-            <p id="pt9">Tops under $25</p></div>
-            <div id="ip2">
-                <img id="ii12" src="dresses.jpg" alt="image">
-                <img id="ii13" src="shoes.jpg" alt="image">
-            </div>
-            <div id="pts3">
-            <p id="pt10">Dresses under $30</p>
-            <p id="pt11">Shoes under $50</p></div>           
-            <a id="blink4" href="#">See all deals</a>
-           </div>
-        </div>
-        <div class="bgfat1">
-            <p id="bf1">Top Picks For India</p>
-           <div id="bff1"> <img id="ii14" src="watch.jpg" alt="image">
-            <img id="ii14" src="baby.jpg" alt="image">
-            <img id="ii14" src="watch2.jpg" alt="image">
-            <img id="ii14" src="vaccum.jpg" alt="image">
-            <img id="ii14" src="TV.jpg" alt="image">
-            <img id="ii14" src="Cera.jpg" alt="image">
-            <img id="ii14" src="vaccum.jpg" alt="image">
-            <img id="ii14" src="Glue.jpg" alt="image"></div>
-        </div>
-        <div class="bgfat2">
-            <p id="bf2">Best Sellers In Kitchen And Dining</p>
-           <div id="bff2"> <img id="ii15" src="bounty.jpg" alt="image">
-            <img id="ii15" src="colors.jpg" alt="image">
-            <img id="ii15" src="bottle.jpg" alt="image">
-            <img id="ii15" src="sparkle.jpg" alt="image">
-            <img id="ii15" src="stanley.jpg" alt="image">
-            <img id="ii15" src="scott.jpg" alt="image">
-            <img id="ii15" src="colors2.jpg" alt="image">
-            </div>
-        </div>
-        <div class="bgfat3">
-            <p id="bf3">Most Wished For In Video Games</p>
-           <div id="bff3"> <img id="ii16" src="Glass.jpg" alt="image">
-            <img id="ii16" src="hello kitty.jpg" alt="image">
-            <img id="ii16" src="mariokart.jpg" alt="image">
-            <img id="ii16" src="supermario.jpg" alt="image">
-            <img id="ii16" src="minecraft.jpg" alt="image">
-            <img id="ii16" src="roblox.jpg" alt="image">
-            <img id="ii16" src="zelda.jpg" alt="image">
-            <img id="ii16" src="something.jpg" alt="image"></div>
-        </div>
-        <div class="sgn">
-            <div class="sgn2">
-                <p id="bf4">See Personalized Recommendations</p><br>
-                <input id="btn" type="button" value="Signin"><br>
-                <p id="bf5">New Customer?<a href="#">Start here</a></p>
-            </div>
-        </div>
-    </main>
-    <footer>
-        <div class="bgft1">
-            <p id="bf6">Back to top</p>
-        </div>
-        <div class="bgft2">
-            <div class="know">
-                <p id="bp1">Get to Know Us</p><br>
-                <p id="bp">Careers</p><br>
-                <p id="bp">Blog</p><br>
-                <p id="bp">About Amazon</p><br>
-                <p id="bp">Investor Relation</p><br>
-                <p id="bp">Amazon Devices</p><br>
-                <p id="bp">Amazon Science</p><br>
-            </div>  
-            <div id="space1"></div>
-            <div class="make">
-                 <p id="bp1">Make Money with Us</p><br>
-                <p id="bp">Sell products on Amazon</p><br>
-                <p id="bp">Sell on Amazon Business</p><br>
-                <p id="bp">Sell apps on Amazon</p><br>
-                <p id="bp">Become an Affiliate</p><br>
-                <p id="bp">Advertise Your Products</p><br>
-                <p id="bp">Self-Polish with Us</p><br>
-                <p id="bp">Host an Amazon Hub</p><br>
-                <p id="bp">See More Make Money with us</p><br>
-            </div>
-            <div id="space1"></div>
-            <div class="payment">
-                <p id="bp1">Amazon Payment Products</p><br>
-                <p id="bp">Amazon Business Card</p><br>
-                <p id="bp">Shop with Points</p><br>
-                <p id="bp">Reload Your Balance</p><br>
-                <p id="bp">Amazon Currency Converter</p><br>
-            </div>
-            <div id="space1"></div>
-            <div class="help">
-                <p id="bp1">Let Us Help You</p><br>
-                <p id="bp">Amzaon and Covid-19</p><br>
-                <p id="bp">Your Account</p><br>
-                <p id="bp">Your Orders</p><br>
-                <p id="bp">Shipping rate & Policies</p><br>
-                <p id="bp">Return & Replacements</p><br>
-                <p id="bp">Manage Your Content and Devices</p><br>
-                <p id="bp">Help</p>
-            </div>
-        </div>
-        <div class="bgft3">
-            <img id="flt" src="amazon logo.jpg" alt="image">
-            <input type="button" value="English" id="btn1">
-            <input type="button" value="$ USD-U.S. Dollar" id="btn1">
-            <input type="button" value="India" id="btn2">
-        </div>
-        <div class="bgft4">
-            <div id="acx">
-                <p id="bp2">Amazon Music</p>
-                <p>Stream millions</p>
-                <p>of song</p><br>
-                <p id="bp2">Amazon Business</p>
-                <p>Everything For</p>
-                <p>Your Business</p><br>
-                <p id="bp2">IMDbPro</p>
-                <p>Get Info</p>
-                <p>Entertainment</p>
-                <p>Professionals Need</p>
-            </div>
-            <div id="acx">
-                <p id="bp2">Amazon Ads</p>
-                <p>Reach Customers</p>
-                <p>wherever they</p>
-                <p>spend their time</p><br>
-                <p id="bp2">Amazon Global</p>
-                <p>Ship Orders</p>
-                <p>Internationally</p><br>
-                <p id="bp2">Kindle Direct</p>
-                <p id="bp2">Publishing</p>
-                <p>Include Digital &</p>
-                <p>Printing Publishing </p>
-                <p>Made Easy</p><br>
-                <p id="bp2">eero WiFi</p>
-                <p>Stream 4K video</p>
-                <p>in Every Room</p>
-            </div>
-            <div id="acx">
-                <p id="bp2">6pm</p>
-                <p>Score deals</p>
-                <p>on fashion brands</p><br>
-                <p id="bp2">Amazon Web Servies</p>
-                <p>Salable Cloud</p>
-                <p>Computing</p>
-                <p>Services</p><br>
-                <p id="bp2">Prime video </p>
-                <p id="bp2">Direct</p>
-                <p>Video Distribution</p>
-                <p>Made Easy</p><br>
-                <p id="bp2">Blink</p>
-                <p>Smart Security</p>
-                <p>in Every Room</p>
-            </div>
-            <div id="acx">
-                <p id="bp2">AbeBooks</p>
-                <p>Books art</p>
-                <p>& collectibles</p><br>
-                <p id="bp2">Audible</p>
-                <p>Listen to Books &</p>
-                <p>Original</p>
-                <p>Audio</p>
-                <p>Performances</p><br>
-                <p id="bp2">Shopbop</p>
-                <p>Designer</p>
-                <p>Fashion Brands</p><br>
-                <p id="bp2">Neighbors App</p>
-                <p>Real-Time Crime</p>
-                <p>& Safety Alerts</p>
-            </div>
-                        <div id="acx">
-                <p id="bp2">ACX</p>
-                <p>Audiobook</p>
-                <p>Publishing</p>
-                <p>Made Easy</p><br>
-                <p id="bp2">Box Office Maja</p>
-                <p>Find Movie</p>
-                <p>Box Office Data</p><br>
-                <p id="bp2">Woot!</p>
-                <p>Deals &</p>
-                <p>Shenanigans</p><br>
-                <p id="bp2">Amazon </p>
-                <p id="b23">Subscription Boxes</p>
-                <p>Top Subscription</p>
-                <p>boxes-right to</p>
-                <p>your door</p>
-            </div>
-                        <div id="acx">
-                <p id="bp2">Sell On Amazon</p>
-                <p>Start a Selling</p>
-                <p>Account</p><br>
-                <p id="bp2">Goodreads</p>
-                <p>Book reviews </p>
-                <p>&</p>
-                <p>Recommendations</p><br>
-                <p id="bp2">Zappos</p>
-                <p>Shoes</p>
-                <p>& Clothing</p><br>
-                <p id="bp2">PillPack</p>
-                <p>Pharmacy</p>
-                <p>Simplified</p>
-            </div>
-           <div id="acx">
-                <p id="bp2">Veeqo</p>
-                <p>Shipping Software</p>
-                <p>of song</p><br>
-                <p id="bp2">IMDb</p>
-                <p>Movies,TV</p>
-                <p>& Celebrities</p><br>
-                <p id="bp2">Ring</p>
-                <p>Smart Home</p>
-                <p>Security Systems</p>
-            </div>
-        </div>
-        <div class="last">
-            <div id="last2nd">
-                <p id="l21">Condition of Use</p>
-                <p id="l22">Privacy Notice</p>
-                <p id="l23">Consumer Health Data Privacy Disclosure</p>
-                <p id="l24">Your ads privacy choices</p>
-            </div>
-            <div id="last1">
-                <p>1996-2025,Amazon.com,Inc. or its affiliates</p>
-            </div>
-        </div>
-    </footer>
-    </body>
-</html>
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* ===== NAVBAR ===== */
+.navbar {
+  height: 60px;
+  background-color: #0F1111;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 5px;
+  padding: 5px 10px;
+}
+
+.n1 { height: 50px; width: 100px; }
+
+.logo1 {
+  background-image: url("amazon logo.jpg");
+  background-size: cover;
+  height: 50px;
+  width: 100px;
+}
+
+.n1:hover { border: 2px solid white; }
+
+.n2 {
+  height: 50px;
+  width: 80px;
+  color: white;
+  padding-top: 5px;
+}
+
+#p1 { height: 15px; width: 18px; }
+#p2 { display: inline-block; font-size: 14px; }
+.n2:hover { border: 2px solid white; }
+#p3 { font-size: 12px; margin-left: 20px; }
+
+/* Search bar */
+.navsearch {
+  background-color: yellow;
+  width: clamp(200px, 50%, 700px);
+  height: 35px;
+  display: flex;
+  flex-shrink: 1;
+}
+
+#p5:hover { background-color: yellowgreen; }
+#p4 { height: 35px; width: 30px; }
+#All { height: 35px; width: 60px; flex-shrink: 0; }
+#text { height: 29.5px; width: 100%; min-width: 0; }
+
+/* Sign in */
+.signin {
+  height: 45px;
+  width: 100px;
+  color: white;
+  padding-top: 10px;
+}
+#p6 { font-size: 12px; }
+#p7 { font-size: 14px; }
+.signin:hover { border: 2px solid white; }
+
+/* Returns */
+.return {
+  height: 45px;
+  width: 60px;
+  color: white;
+  padding-top: 10px;
+}
+#p8 { font-size: 12px; }
+#p9 { font-size: 14px; }
+.return:hover { border: 2px solid white; }
+
+/* Cart */
+.cart {
+  width: 70px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+#p10 {
+  height: 30px;
+  width: 30px;
+  margin-top: 10px;
+  background-image: url("cart icon.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+#p11 {
+  color: white;
+  font-size: 14px;
+  display: inline;
+  padding-top: 25px;
+}
+.cart:hover { border: 2px solid white; }
+
+/* ===== STATUS BAR ===== */
+.statusbar {
+  background-color: #181c1c;
+  height: auto;
+  min-height: 40px;
+}
+.statusbar2 {
+  min-height: 40px;
+  width: 100%;
+  max-width: 800px;
+  background-color: #181c1c;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+#s { width: 58px; height: 40px; display: flex; justify-content: center; align-items: center; }
+#option { width: 17px; height: 15px; }
+#s2 { margin-left: 10px; color: white; padding-top: 13px; }
+#s:hover { cursor: pointer; }
+#s3, #s4, #s5, #s6, #s7 { padding: 13px 10px 5px; font-size: 14px; cursor: pointer; }
+#s3:hover, #s4:hover, #s5:hover, #s6:hover, #s7:hover { cursor: pointer; }
+
+/* ===== MAIN BG ===== */
+.mainbg {
+  height: 400px;
+  background-image: url("main bg.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: flex-end;
+}
+#r1 {
+  margin-bottom: 60px;
+  height: 40px;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 10px;
+  font-size: clamp(11px, 2vw, 14px);
+}
+
+/* ===== PRODUCT CARDS SECTION ===== */
+.bgfat {
+  background-color: rgb(210, 251, 251);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 20px;
+  padding: 20px;
+}
+
+/* All item cards share responsive width */
+.items1, .items2, .items3, .items4 {
+  border: 2px solid black;
+  background-color: white;
+  width: clamp(280px, 45%, 400px);
+  flex: 1 1 280px;
+  padding-bottom: 15px;
+}
+
+/* Items 1 */
+#r2, #r3, #r4 {
+  padding: 15px 16px;
+  font-size: clamp(16px, 2.5vw, 21px);
+}
+#ip1, #ip4, #ip5 {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 0 10px;
+}
+#ip2 {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 0 10px;
+  margin-top: 15px;
+}
+#ii1, #ii2, #ii3, #ii4,
+#ii6, #ii7, #ii8, #ii9,
+#ii10, #ii11, #ii12, #ii13 {
+  width: clamp(100px, 40%, 160px);
+  height: auto;
+  aspect-ratio: 1;
+  cursor: pointer;
+  object-fit: cover;
+}
+#pts, #pts1, #pts2, #pts3 { margin-top: 8px; padding: 0 16px; margin-bottom: 10px; }
+#pt1, #pt2, #pt3, #pt4, #pt5, #pt6, #pt7,
+#pt8, #pt9, #pt10, #pt11 {
+  display: inline-block;
+  font-size: 13px;
+}
+
+#blink1, #blink2, #blink3, #blink4 {
+  display: block;
+  margin: 15px 20px 5px;
+  text-decoration: none;
+  color: #007185;
+}
+
+/* Items 2 */
+#ip3 {
+  font-size: clamp(20px, 3vw, 30px);
+  text-align: center;
+  margin: 20px 0;
+}
+#ii5 {
+  width: 90%;
+  height: auto;
+  max-height: 350px;
+  object-fit: cover;
+  margin: 0 auto 20px;
+  display: block;
+  cursor: pointer;
+}
+
+/* ===== HORIZONTAL SCROLL SECTIONS ===== */
+.bgfat1, .bgfat2, .bgfat3 {
+  border: 20px solid rgb(210, 251, 251);
+  background-color: white;
+  overflow: hidden;
+}
+#bf1, #bf2, #bf3 {
+  font-size: clamp(16px, 2.5vw, 21px);
+  margin: 7px 15px 10px;
+  font-weight: bolder;
+}
+#bff1, #bff2, #bff3 {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  gap: 12px;
+  padding: 10px 15px 15px;
+  scrollbar-width: thin;
+  -webkit-overflow-scrolling: touch;
+}
+#bff1::-webkit-scrollbar,
+#bff2::-webkit-scrollbar,
+#bff3::-webkit-scrollbar {
+  height: 6px;
+}
+#bff1::-webkit-scrollbar-thumb,
+#bff2::-webkit-scrollbar-thumb,
+#bff3::-webkit-scrollbar-thumb {
+  background: #aaa;
+  border-radius: 3px;
+}
+#ii14, #ii15, #ii16 {
+  flex-shrink: 0;
+  height: 160px;
+  width: auto;
+  max-width: 160px;
+  object-fit: contain;
+  cursor: pointer;
+}
+
+/* ===== SIGN IN SECTION ===== */
+.sgn {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(210, 251, 251);
+}
+.sgn2 {
+  height: auto;
+  border: 1px solid blueviolet;
+  text-align: center;
+  padding: 20px;
+  background: white;
+  width: clamp(250px, 60%, 400px);
+}
+#btn {
+  height: 40px;
+  width: 80%;
+  max-width: 250px;
+  border: 3px solid black;
+  border-radius: 40px;
+  background-color: yellow;
+  cursor: pointer;
+  margin: 10px 0;
+}
+#bf4 { font-size: clamp(18px, 3vw, 24px); font-weight: bolder; margin-bottom: 10px; }
+#bf5 { font-size: 11px; }
+
+/* ===== FOOTER ===== */
+.bgft1 {
+  background-color: rgb(0, 49, 89);
+  padding: 16px;
+  text-align: center;
+  font-size: 16px;
+  color: white;
+}
+#bf6 { cursor: pointer; }
+
+.bgft2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: rgb(0, 24, 43);
+  padding: 30px 20px;
+  gap: 20px;
+}
+.know, .make, .payment, .help {
+  display: inline-block;
+  background-color: rgb(0, 24, 43);
+  min-width: 140px;
+  flex: 1 1 140px;
+}
+#bp {
+  font-size: 13px;
+  color: #ccc;
+  cursor: pointer;
+  line-height: 2;
+}
+#bp:hover { text-decoration: underline; }
+#bp1 {
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.bgft3 {
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 20px;
+  background-color: rgb(0, 24, 43);
+  border-top: 1px solid #444;
+}
+#flt { height: 46px; width: 76px; }
+#btn1, #btn2 {
+  height: 33px;
+  width: 140px;
+  color: white;
+  background-color: rgb(0, 24, 43);
+  border: 1px solid #555;
+  cursor: pointer;
+}
+
+.bgft4 {
+  padding: 30px 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 20px;
+  background-color: rgb(1, 8, 14);
+}
+#acx {
+  display: inline-block;
+  background-color: rgb(1, 8, 14);
+  color: white;
+  cursor: pointer;
+  font-size: 13px;
+  line-height: 1.8;
+  min-width: 100px;
+  flex: 1 1 100px;
+}
+#acx:hover { text-decoration: underline; }
+#bp2 { font-weight: bolder; }
+
+.last {
+  background-color: rgb(1, 8, 14);
+  padding: 15px 10px;
+}
+#last2nd {
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+#l21, #l22, #l23, #l24 {
+  color: #aac;
+  cursor: pointer;
+  font-size: 13px;
+}
+#l21:hover, #l22:hover, #l23:hover, #l24:hover { text-decoration: underline; }
+#last1 { text-align: center; color: #888; font-size: 12px; }
+
+/* ===== MOBILE RESPONSIVE ===== */
+@media (max-width: 768px) {
+  /* Navbar collapses into 2 rows */
+  .navbar {
+    height: auto;
+    padding: 8px 10px;
+    gap: 8px;
+  }
+  /* Row 1: logo + search full width */
+  .n1 { order: 1; }
+  .navsearch {
+    order: 2;
+    width: 100%;
+    max-width: 100%;
+  }
+  #text { width: 100%; }
+  /* Row 2: location, signin, returns, cart */
+  .n2 { order: 3; }
+  .signin { order: 4; }
+  .return { order: 5; }
+  .cart { order: 6; }
+
+  /* Status bar wraps */
+  .statusbar2 {
+    flex-wrap: wrap;
+    padding: 5px 0;
+  }
+  #s3, #s4, #s5, #s6, #s7 {
+    padding: 8px 8px;
+    font-size: 12px;
+  }
+
+  /* Hero image smaller on mobile */
+  .mainbg { height: 220px; }
+  #r1 { margin-bottom: 20px; font-size: 11px; padding: 0 8px; }
+
+  /* Cards stack full width */
+  .bgfat { padding: 15px; gap: 15px; }
+  .items1, .items2, .items3, .items4 {
+    width: 100%;
+    flex: 1 1 100%;
+  }
+
+  /* Horizontal scroll sections */
+  .bgfat1, .bgfat2, .bgfat3 { border-width: 10px; }
+  #ii14, #ii15, #ii16 { height: 120px; max-width: 120px; }
+
+  /* Sign in */
+  .sgn { height: auto; padding: 30px 15px; }
+  .sgn2 { width: 90%; }
+
+  /* Footer */
+  .bgft2 { padding: 20px 15px; }
+  .know, .make, .payment, .help { flex: 1 1 45%; min-width: 130px; }
+  .bgft3 { padding: 15px; }
+  #btn1, #btn2 { width: 90%; }
+  .bgft4 { padding: 20px 10px; }
+  #acx { flex: 1 1 45%; }
+  #last2nd { flex-direction: column; align-items: center; }
+}
+
+@media (max-width: 480px) {
+  .n2, .return { display: none; } /* Hide less critical nav items on very small screens */
+  .signin { width: auto; }
+  .items1, .items2, .items3, .items4 { min-width: unset; }
+  .know, .make, .payment, .help { flex: 1 1 100%; }
+  #acx { flex: 1 1 100%; }
+}
